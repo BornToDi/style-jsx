@@ -1,0 +1,50 @@
+
+*{
+    margin: 18px;
+    padding: 0;
+}
+.omg{
+    background-color: aqua;
+    text-align: center;
+    font-size:x-large;
+    color:rgb(0, 0, 0);
+    margin: 10px;
+    padding: 15px;
+    width: 660px;
+    position: relative;
+    left: 250px;
+    border: 3px solid red;
+    box-shadow: 2px 4px 4px gray;
+
+}
+
+.card{
+    background-color: orangered;
+    color: black;
+    text-align: justify;
+    padding: 15px;
+    margin: 10px;
+    width: 400px;
+    position: relative;
+    left: 390px;
+    border: 3px solid rgb(123, 14, 224);
+    box-shadow: 2px 4px 4px gray;
+
+}
+.cardOp{
+    color: antiquewhite;
+    text-align: center;
+}
+
+.cardXd{
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+    left: 390px;
+    text-align: center;
+}
+.cardLove{
+    text-align: center;
+    font-weight: 100;
+    font-weight: bold;
+}
